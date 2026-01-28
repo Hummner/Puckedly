@@ -1,59 +1,31 @@
-# Puckedly
+# Puckedly 🏒
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.9.
+Puckedly is a web app for hobby ice hockey players who want to find teams or organize their own games.
 
-## Development server
+With Puckedly, players can:
+- Create and manage teams  
+- Build and organize lineups  
+- Manage player registrations and availability  
+- Keep everything related to a game in one place  
 
-To start a local development server, run:
+The goal of Puckedly is to make organizing hobby ice hockey games simple, fast, and enjoyable.
 
-```bash
-ng serve
-```
+## Features
+- Team creation and management  
+- Lineup planning  
+- Player registration management  
+- User-friendly web interface  
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## Tech Stack
+- Frontend: Angular
+- Backend: Django - DRF 
+- Database: -
 
-## Code scaffolding
+## Status
+🚧 Puckedly is currently under development.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## Motivation
+Puckedly was created to help hobby ice hockey players spend less time organizing and more time playing.
 
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## License
+This project is licensed under the MIT License.
